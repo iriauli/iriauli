@@ -1,6 +1,7 @@
 <style>
   td, th {
   border: none!important;
+  }
 </style>
 
 | ### Hi there 👋 | I'm Irakli |
