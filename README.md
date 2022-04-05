@@ -1,2 +1,3 @@
 
-#### Hi there 👋 I'm Irakli, Junior Salesforce Developer at Sweeft Digital :fire:
+#### Hi there 👋
+I'm Irakli, Junior Salesforce Developer at Sweeft Digital :fire:
