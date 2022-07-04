@@ -1,3 +1,3 @@
 
 #### Hi there 👋
-Salesforce Developer at Sweeft | a Making Science company :octocat:
+Salesforce Developer at Sweeft | a Making Science company	:electron:
