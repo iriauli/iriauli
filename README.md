@@ -1,3 +1,3 @@
 
 #### Hi there 👋
-I'm Irakli, Junior Salesforce Developer at Sweeft Digital :fire:
+Salesforce Developer at Sweeft | a Making Science company :octocat:
